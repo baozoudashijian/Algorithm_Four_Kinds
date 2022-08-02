@@ -24,6 +24,7 @@ const countSort = (arr) => {
     console.log(hashTable)
     console.log(maxValue)
     console.log(res)
+    return res
 }
 
 countSort([11,341,14,241,24,12,341])
