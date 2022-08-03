@@ -9,3 +9,9 @@
 
 ## bubbleSort
 冒泡排序
+
+## insertSort
+排序算法
+
+## binarySearch
+二分查找法
